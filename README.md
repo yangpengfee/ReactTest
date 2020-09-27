@@ -1,2 +1,2 @@
 # ReactTest
-react testing and exercises demo
+toy-react 练习小游戏 
